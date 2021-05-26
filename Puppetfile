@@ -9,7 +9,7 @@ mod 'puppetlabs/docker'
 mod 'pltraining/dockeragent'
 
 #https://forge.puppet.com/modules/samuelson/dockeragent
-mod 'samuelson/sdockeragent'
+mod 'samuelson/dockeragent'
 
 #Deprecated or stale
 #mod 'puppetlabs/dockeragent'
