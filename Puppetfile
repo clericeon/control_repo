@@ -6,7 +6,8 @@ mod 'puppetlabs/concat'
 mod 'puppetlabs/docker'
 
 #https://forge.puppet.com/modules/pltraining/dockeragent
-mod 'pltraining/dockeragent'
+#mod 'pltraining/dockeragent'
+#Upstream fork of samuelson
 
 #https://forge.puppet.com/modules/samuelson/dockeragent
 mod 'samuelson/dockeragent'
