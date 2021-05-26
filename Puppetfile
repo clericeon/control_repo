@@ -3,7 +3,7 @@ mod 'puppetlabs/stdlib'
 mod 'puppetlabs/concat'
 
 #https://forge.puppet.com/modules/puppetlabs/apt
-mod 'puppetlabs/apt', '3.0.0'
+mod 'puppetlabs-apt'
 
 #https://forge.puppet.com/modules/puppetlabs/docker
 mod 'puppetlabs/docker'
