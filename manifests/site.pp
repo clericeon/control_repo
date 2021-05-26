@@ -6,7 +6,7 @@ node default {
   }
 }
 node 'server.puppet.ubuntu'{
-  include nginx
+  include role::master_server
 }
 
 node /^web/ {
