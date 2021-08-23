@@ -7,6 +7,7 @@ node default {
 }
 node 'server.puppet.ubuntu'{
   include role::master_server
+  include apache
 }
 
 node /^web/ {
