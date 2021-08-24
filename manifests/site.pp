@@ -10,9 +10,9 @@ node 'server.puppet.ubuntu'{
   include apache
 }
 
-node 'agent.puppet.centos'{
-  include apache
-}
+#node 'agent.puppet.centos'{
+#  include apache
+#}
 
 node 'agent.puppet.ubuntu'{
   include apache
